@@ -33,4 +33,6 @@ iPod Updater 2006-01-10 (Requires macOS 10.14 or below)
 iPod Updater 2006-06-28 (Requires macOS 10.14 or below)
 
 
-The first of these software versions to support the iPod Classic 2nd generation was 1.2, that is what it originally shipped with in 2002. The 10GB 1st generation originally shipped with version 1.1, however it can technically run 1.0.4 and 1.0, however it will be limited to only using 5GB of storage as this limitation is hard coded into these versions.
+The first of these software versions to support the iPod 2nd generation was 1.2, for which it originally shipped with in 2002. The 10GB 1st generation originally shipped with version 1.1, however it can technically run 1.0.4 and 1.0. 
+
+NOTE: It will be limited to only using 5GB of storage as this limitation is hard-coded into these versions.
