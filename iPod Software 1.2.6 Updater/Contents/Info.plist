@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist SYSTEM "file://localhost/System/Library/DTDs/PropertyList.dtd"><plist version="0.9"><dict>
+	<key>BackEndExecutable</key>
+	<string>UpdaterBackEnd</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>iPod Updater</string>
+	<key>CFBundleGetInfoString</key>
+	<string>1.2.6, iPod Software Updater, Copyright Apple Computer, Inc. 2001-2003</string>
+	<key>CFBundleIconFile</key>
+	<string>Updater.icns</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>iPod Updater</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.6</string>
+	<key>CFBundleSignature</key>
+	<string>dopi</string>
+	<key>CFBundleVersion</key>
+	<string>1.2.6</string>
+	<key>CopyrightMessage</key>
+	<string>Copyright Apple Computer, Inc. 2001-2003</string>
+	<key>Description</key>
+	<string>This application lets you update the software on your iPod. It also allows you to restore the software on your iPod to the "factory" condition.</string>
+	<key>Version</key>
+	<string>Version 1.2.6</string>
+</dict>
+</plist>

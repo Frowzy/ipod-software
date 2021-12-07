@@ -1,0 +1,12 @@
+{
+    IBClasses = (
+        {
+            CLASS = AboutBoxController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"_updatesScrollView" = NSScrollView; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

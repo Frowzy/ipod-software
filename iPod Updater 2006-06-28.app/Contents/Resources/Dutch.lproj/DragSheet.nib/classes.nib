@@ -1,0 +1,42 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            ACTIONS = {sheetCancel = id; sheetOK = id; }; 
+            CLASS = PodMatrix; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {"_dragSheet" = NSWindow; "_updateRestoreRadioButtons" = NSMatrix; }; 
+            SUPERCLASS = NSMatrix; 
+        }, 
+        {
+            ACTIONS = {
+                doRestore = id; 
+                doUpdate = id; 
+                dropSheetCancel = id; 
+                dropSheetOK = id; 
+                showAboutBox = id; 
+            }; 
+            CLASS = PodUpdaterController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "_dragSheet" = NSWindow; 
+                "_podCapacityField" = NSTextField; 
+                "_podFirmwareField" = NSTextField; 
+                "_podFormatField" = NSTextField; 
+                "_podNameField" = NSTextField; 
+                "_podSNField" = NSTextField; 
+                "_progressIndicator" = NSProgressIndicator; 
+                "_progressMessage" = NSTextField; 
+                "_progressSheet" = NSPanel; 
+                "_restoreButton" = NSButton; 
+                "_restoreDescriptionField" = NSTextField; 
+                "_scrollView" = NSScrollView; 
+                "_updateButton" = NSButton; 
+                "_updateDescriptionField" = NSTextField; 
+                "_updateRestoreRadioButtons" = NSMatrix; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }
+    ); 
+    IBVersion = 1; 
+}

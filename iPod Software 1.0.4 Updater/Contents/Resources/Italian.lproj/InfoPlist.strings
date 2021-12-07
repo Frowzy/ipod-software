@@ -1,0 +1,4 @@
+CFBundleName = "Aggiornamento iPod"
+Version = "Versione 1.0.4";
+Description = "Questa applicazione consente di aggiornare il software su iPod. Consente inoltre di ripristinare il software con le impostazioni “predefinite”.";
+

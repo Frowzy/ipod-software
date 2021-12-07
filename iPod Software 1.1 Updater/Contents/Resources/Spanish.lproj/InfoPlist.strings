@@ -1,0 +1,5 @@
+/* Localized versions of Info.plist keys */
+
+Version = "Versión 1.1";
+Description = "Esta aplicación le permite actualizar el software del iPod, así como restaurar el software del iPod con los ajustes de fábrica.";
+

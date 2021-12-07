@@ -1,0 +1,59 @@
+{
+    IBClasses = (
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {
+            CLASS = NonAnimatingProgressIndicator; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSProgressIndicator; 
+        }, 
+        {CLASS = PodMatrix; LANGUAGE = ObjC; SUPERCLASS = NSMatrix; }, 
+        {
+            ACTIONS = {
+                copy = id; 
+                doRestore = id; 
+                doUpdate = id; 
+                dropSheetCancel = id; 
+                dropSheetOK = id; 
+                quitSheetPressedCancel = id; 
+                quitSheetPressedQuit = id; 
+                showAboutBox = id; 
+                showPodRegistration = id; 
+                showPodTroubleShooting = id; 
+                showPreferences = id; 
+            }; 
+            CLASS = PodUpdaterController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                "_capacityIndicator" = NonAnimatingProgressIndicator; 
+                "_dragSheet" = NSWindow; 
+                "_mainWindow" = NSWindow; 
+                "_noPodsIndicationField" = NSTextField; 
+                "_podCapacityField" = NSTextField; 
+                "_podDescriptionFieldsBox" = NSBox; 
+                "_podFirmwareField" = NSTextField; 
+                "_podFormatField" = NSTextField; 
+                "_podFormatLabelField" = NSTextField; 
+                "_podFreeField" = NSTextField; 
+                "_podIconView" = NSImageView; 
+                "_podNameField" = NSTextField; 
+                "_podSNField" = NSTextField; 
+                "_podUsedField" = NSTextField; 
+                "_progressIndicator" = NSProgressIndicator; 
+                "_progressMessage" = NSTextField; 
+                "_progressSheet" = NSPanel; 
+                "_quitCountdown" = NSTextField; 
+                "_quitCountdownBox" = NSBox; 
+                "_quitMessage" = NSTextField; 
+                "_quitSheet" = NSWindow; 
+                "_restoreButton" = NSButton; 
+                "_restoreDescriptionField" = NSTextField; 
+                "_scrollView" = NSScrollView; 
+                "_updateButton" = NSButton; 
+                "_updateDescriptionField" = NSTextField; 
+                "_updateRestoreRadioButtons" = NSMatrix; 
+            }; 
+            SUPERCLASS = NSResponder; 
+        }
+    ); 
+    IBVersion = 1; 
+}
