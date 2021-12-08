@@ -8,4 +8,13 @@ WARNING: I offer no guarantee or warranty for any software included. Flash at yo
 
 ## Branch specific details
 
-This is the master branch. It will contain nothing but the readme. Navigate through the branches and you may find further information in this field in their appropriate branches.
+This branch contains "experimental" and or "prototype" binaries for the iPod Classic (6th/7th generation) lineup. I
+
+#### Authors notes:
+
+appleos.bin
+- No methods to get this to boot on an actual iPod classic have been fruitful.
+- The binary titled 'appleos.bin' was released no sooner than July 8, 2007.
+- This aforemnetioned binary is unconventionally laid out.
+- This binary has been deemed "decrypted".
+
